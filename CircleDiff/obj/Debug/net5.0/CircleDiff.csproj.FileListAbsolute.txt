@@ -1,0 +1,12 @@
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/bin/Debug/net5.0/CircleDiff.deps.json
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/bin/Debug/net5.0/CircleDiff.dll
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/bin/Debug/net5.0/ref/CircleDiff.dll
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/bin/Debug/net5.0/CircleDiff.pdb
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/obj/Debug/net5.0/CircleDiff.csprojAssemblyReference.cache
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/obj/Debug/net5.0/CircleDiff.GeneratedMSBuildEditorConfig.editorconfig
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/obj/Debug/net5.0/CircleDiff.AssemblyInfoInputs.cache
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/obj/Debug/net5.0/CircleDiff.AssemblyInfo.cs
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/obj/Debug/net5.0/CircleDiff.csproj.CoreCompileInputs.cache
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/obj/Debug/net5.0/CircleDiff.dll
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/obj/Debug/net5.0/ref/CircleDiff.dll
+/home/mfaqiri/po-weekly/csh-coding-2/CircleDiff/obj/Debug/net5.0/CircleDiff.pdb
